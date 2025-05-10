@@ -1,0 +1,6 @@
+# Ignore resumes directory
+resume-ranker/resumes/
+
+# Ignore embedding cache and faiss index (big storage)
+data/embedding_cache/
+data/faiss_index/

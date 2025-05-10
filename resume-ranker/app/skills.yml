@@ -1,0 +1,48 @@
+
+categories:
+  cloud:
+    - aws
+    - azure
+    - gcp
+    - docker
+    - kubernetes
+    - openstack
+    - digitalocean
+  frontend:
+    - react
+    - angular
+    - vue
+    - javascript
+    - typescript
+    - html
+    - css
+    - sass
+  backend:
+    - python
+    - node.js
+    - java
+    - django
+    - flask
+    - spring
+    - ruby on rails
+  data:
+    - spark
+    - hadoop
+    - pandas
+    - sql
+    - nosql
+    - mongodb
+    - elasticsearch
+  devops:
+    - jenkins
+    - terraform
+    - ansible
+    - ci/cd
+    - gitlab ci
+    - circleci
+    - travis ci
+  mobile:
+    - android
+    - ios
+    - react native
+    - flutter

@@ -1,0 +1,120 @@
+{
+  "name": null,
+  "email": null,
+  "phone": "+91 8007931800",
+  "linkedin": null,
+  "summary": "",
+  "experience": [
+    {
+      "entry": "Infosys : System Engineer (Jan 2022-Present)",
+      "dates": [
+        {
+          "start": "2022-01-23 00:00:00",
+          "end": "2025-04-24 01:52:21.180800"
+        }
+      ],
+      "duration_years": 3.25
+    },
+    {
+      "entry": "Managed supply chain issues, ensuring smooth flow of materials, sales orders, and \ndeliveries process using the SAP SD module.  \nGained  proficiency \nUnderwent additional training and gained expertise in SQL and data science. \nUse these skills to grab the in-house project and find useful insights.",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "in  problem-solving  and",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "troubleshooting",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "techniques.",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Personal Projects",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Olympics Data Analysis using Power Bi",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Tech Stack : Python | Pandas |Power Bi",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Challenge: Data Cleaning",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Extracted, cleaned, and transformed data using Python. \nCreated  an  interactive  dashboard  with  Power  BI  and  subsequently  hosted  the \nanalysis on a website. \nThe  objective  of  this  project  was  to  provide  users  with  access  to  comprehensive \nstatistics on the Olympics",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "ATLIQ mart review  using Power Bi",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Tech Stack : Power Bi",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Challenge: Defining Key Performance Indicators (KPIs)",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Conducted the Extract, Transform, and Load (ETL) process. \nDeveloped an interactive dashboard using Power BI. \nThe objective of this project was to create a comprehensive dashboard for the supply \nchain team to effectively monitor and analyze crucial metrics.",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "AirBnb Booking Analysis",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Tech Stack : Python | Pandas | Matplotlib | Seaborn",
+      "dates": [],
+      "duration_years": 0.0
+    },
+    {
+      "entry": "Analyzed the data to gain insights, such as identifying patterns and trends. \nExplored  the  relationships  between  different  variables  to  identify  correlation. \nCommunicated findings effectively by presenting the data in an easy-tounderstand \nformat using various visualizations.",
+      "dates": [],
+      "duration_years": 0.0
+    }
+  ],
+  "education": "2023 Citizen Data Science Course \nINFOSYS 2019 BE (Mechanical) - 8.73 cgpa SITRC - PUNE UNIVERSITY",
+  "skills": [
+    "NLP",
+    "Python",
+    "SQL"
+  ],
+  "certifications": [
+    "Seoul Bike Sharing Demand Prediction",
+    "Tech Stack: Python | Pandas | Matplotlib | Scikit-Learn | ML algorithms",
+    "Toshan Tile",
+    "D a t a S c i e n t i s t / A n \na l y s t \nI  am  a  motivated  data  science \nenthusiast seeking opportunities to \nenhance  my  skills  and  knowledge",
+    "Made data ready by performing data wrangling to train models.",
+    "Performed Exploratory Data Analysis to get insights.  \nExperimented  with  different  regression  algorithms  and  compared  performance \nmetrics.",
+    "CoronaVirus Tweet Sentiment Analysis",
+    "Tech Stack: Python | Pandas | Matplotlib | Scikit-Learn | ML algorithms",
+    "Challenge: Text Preprocessing for NLP",
+    "The  project  involves  analyzing \ntweets \ntheir \nto  determine \nsentiment.  The  performance  of \ndifferent  ML  models \nis \ncompared  to  determine  which \none works best for this task."
+  ],
+  "projects": [],
+  "achievements": [],
+  "total_experience_years": 3.25
+}
